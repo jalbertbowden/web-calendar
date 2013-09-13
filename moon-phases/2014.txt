@@ -1,0 +1,15 @@
+2014 Moon phases for UTC
+Lunation	New Moon	First Quarter	Full Moon	Third Quarter	Duration
+1126	Jan 1	11:15 AM	Jan 8	3:40 AM	Jan 16	4:53 AM	Jan 24	5:20 AM	29d 10h 24m
+1127	Jan 30	9:39 PM	Feb 6	7:22 PM	Feb 14	11:54 PM	Feb 22	5:16 PM	29d 10h 21m
+1128	Mar 1	8:00 AM	Mar 8	1:27 PM	Mar 16	5:09 PM	Mar 24	1:46 AM	29d 10h 45m
+1129	Mar 30	6:45 PM	Apr 7	8:31 AM	Apr 15	7:43 AM	Apr 22	7:52 AM	29d 11h 30m
+1130	Apr 29	6:15 AM	May 7	3:16 AM	May 14	7:16 PM	May 21	1:00 PM	29d 12h 26m
+1131	May 28	6:41 PM	Jun 5	8:40 PM	Jun 13	4:12 AM	Jun 19	6:39 PM	29d 13h 29m
+1132	Jun 27	8:09 AM	Jul 5	12:00 Noon	Jul 12	11:25 AM	Jul 19	2:09 AM	29d 14h 33m
+1133	Jul 26	10:42 PM	Aug 4	12:50 AM	Aug 10	6:10 PM	Aug 17	12:26 PM	29d 15h 31m
+1134	Aug 25	2:13 PM	Sep 2	11:12 AM	Sep 9	1:39 AM	Sep 16	2:06 AM	29d 16h 01m
+1135	Sep 24	6:14 AM	Oct 1	7:33 PM	Oct 8	10:51 AM	Oct 15	7:13 PM	29d 15h 43m
+1136	Oct 23	9:57 PM	Oct 31	2:49 AM	Nov 6	10:23 PM	Nov 14	3:16 PM	29d 14h 35m
+1137	Nov 22	12:33 PM	Nov 29	10:07 AM	Dec 6	12:27 PM	Dec 14	12:52 PM	29d 13h 04m
+1138	Dec 22	1:36 AM	Dec 28	6:32 PM	 	 	 	 	29d 11h 38m

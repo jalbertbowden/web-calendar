@@ -1,0 +1,15 @@
+2010 Moon phases for UTC
+Lunation	New Moon	First Quarter	Full Moon	Third Quarter	Duration
+1076	 	 	 	 	 	 	Jan 7	10:40 AM	29d 19h 10m
+1077	Jan 15	7:12 AM	Jan 23	10:54 AM	Jan 30	6:18 AM	Feb 5	11:49 PM	29d 19h 40m
+1078	Feb 14	2:52 AM	Feb 22	12:43 AM	Feb 28	4:38 PM	Mar 7	3:42 PM	29d 18h 10m
+1079	Mar 15	9:01 PM	Mar 23	11:00 AM	Mar 30	2:25 AM	Apr 6	9:37 AM	29d 15h 28m
+1080	Apr 14	12:29 PM	Apr 21	6:20 PM	Apr 28	12:19 PM	May 6	4:15 AM	29d 12h 36m
+1081	May 14	1:05 AM	May 20	11:43 PM	May 27	11:08 PM	Jun 4	10:13 PM	29d 10h 10m
+1082	Jun 12	11:15 AM	Jun 19	4:30 AM	Jun 26	11:31 AM	Jul 4	2:36 PM	29d 8h 26m
+1083	Jul 11	7:41 PM	Jul 18	10:11 AM	Jul 26	1:37 AM	Aug 3	4:59 AM	29d 7h 27m
+1084	Aug 10	3:08 AM	Aug 16	6:14 PM	Aug 24	5:05 PM	Sep 1	5:22 PM	29d 7h 21m
+1085	Sep 8	10:30 AM	Sep 15	5:50 AM	Sep 23	9:17 AM	Oct 1	3:52 AM	29d 8h 15m
+1086	Oct 7	6:44 PM	Oct 14	9:27 PM	Oct 23	1:36 AM	Oct 30	12:46 PM	29d 10h 07m
+1087	Nov 6	4:52 AM	Nov 13	4:38 PM	Nov 21	5:27 PM	Nov 28	8:36 PM	29d 12h 44m
+1088	Dec 5	5:36 PM	Dec 13	1:59 PM	Dec 21	8:13 AM	Dec 28	4:18 AM	29d 15h 27m

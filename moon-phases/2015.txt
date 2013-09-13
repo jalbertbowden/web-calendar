@@ -1,0 +1,14 @@
+2015 Moon phases for UTC
+Lunation	New Moon	First Quarter	Full Moon	Third Quarter	Duration
+1138	 	 	 	 	Jan 5	4:54 AM	Jan 13	9:47 AM	29d 11h 38m
+1139	Jan 20	1:14 PM	Jan 27	4:49 AM	Feb 3	11:09 PM	Feb 12	3:50 AM	29d 10h 33m
+1140	Feb 18	11:47 PM	Feb 25	5:14 PM	Mar 5	6:06 PM	Mar 13	5:48 PM	29d 9h 49m
+1141	Mar 20	9:36 AM	Mar 27	7:43 AM	Apr 4	12:06 PM	Apr 12	3:45 AM	29d 9h 21m
+1142	Apr 18	6:57 PM	Apr 25	11:55 PM	May 4	3:42 AM	May 11	10:36 AM	29d 9h 16m
+1143	May 18	4:14 AM	May 25	5:19 PM	Jun 2	4:19 PM	Jun 9	3:42 PM	29d 9h 52m
+1144	Jun 16	2:06 PM	Jun 24	11:03 AM	Jul 2	2:20 AM	Jul 8	8:24 PM	29d 11h 19m
+1145	Jul 16	1:25 AM	Jul 24	4:05 AM	Jul 31	10:43 AM	Aug 7	2:03 AM	29d 13h 29m
+1146	Aug 14	2:54 PM	Aug 22	7:32 PM	Aug 29	6:36 PM	Sep 5	9:55 AM	29d 15h 48m
+1147	Sep 13	6:42 AM	Sep 21	9:00 AM	Sep 28	2:51 AM	Oct 4	9:07 PM	29d 17h 25m
+1148	Oct 13	12:06 AM	Oct 20	8:32 PM	Oct 27	12:06 PM	Nov 3	12:24 PM	29d 17h 41m
+1149	Nov 11	5:48 PM	Nov 19	6:28 AM	Nov 25	10:45 PM	Dec 3	7:41 AM	29d 16h 42m

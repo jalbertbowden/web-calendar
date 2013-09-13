@@ -1,0 +1,18 @@
+	      <strong class="fakeheader">Holidays for <?=$month ?> <?=$year ?></strong>
+	      <ul>
+		<li>11 &#24; Columbus Day</li>
+		<li>19 &#24; Yorktown Day (British Surrender at Yorktown, VA in 1781)</li>
+		<li>31 &#24; Halloween, Samhain</li>
+	      </ul>
+World Standards Day 10-14
+
+<ul>
+  <li><a href="http://blogactionday.change.org/" title="Blog Action Day 2010">Blog Action Day 2010 &#45; October 15, 2010</a></li>
+</ul>
+
+October Observances	-	National Caramel Month, National Go On A Field Trip Month, National Vegetarian Month, National Sausage Month, National Self Promotion Month, , All American Breakfast Month, Better Breakfast Month, Computer Learning Month, Cook Book Month, Country Music Month, Disability Employment Awareness Month, Diversity Awareness Month, Emergency Care Month, Family History Month, German-American Heritage Month, Gourmet Adventures Month, Hunger Awareness Month, Hug a Texas Chef Month, Lesbian, Gay, and Bisexual History Month, Mom & Apple Pie Month, National AIDS Awareness Month, National Apple Month, National Applejack Month, National Book Fair Month, National Car Care Month, National Caramel Month, National Collegiate Alcohol Awareness Month, National Cookie Month, National Cosmetology Month, National Country Ham Month, National Depression Education and Awareness Month, National Dessert Month, National Health Care Food Service Month, National Hispanic Heritage Month (Mexico): September 15th-October 15th, National Kitchen and Bath Month, National Pasta Month, National Pickled Peppers Month, National Pizza Month, National Popcorn Poppin' Month, National Pork Month, National Pretzel Month, National Restaurant Hospitality Month, National Seafood Month, National Stamp Collecting Month (Canada), National Biscuit Month, National Breast Cancer Awareness Month, National Chicken Month, National Cholesterol Awareness Month, National Courtesy Month, National Disability Employment Awareness Month, National Hispanic Month, National Honey Month, National Italian-American Heritage Month, National Mental Illness Awareness Month, National Mushroom Month, National Organic Harvest Month, National Papaya Month (also, June), National Piano Month, National Potato Month, National Rice Month, National Roller Skating Month, National Sight Saving Month, National Spinach-Lovers' Month, National Toilet Tank Repair Month, Polish-American Heritage Month, Self-Improvement Month, Vegetarian Awareness Month, Women of Achievement Month, Women's History Month (Canada) 
+October 2 		- 	Name Your Car Day <a href="http://www.gone-ta-pott.com/name_your_car_day.html" title="October 2 Is Name Your Car Day">October 2 Is Name Your Car Day</a>
+
+
+
+

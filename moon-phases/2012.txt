@@ -1,0 +1,15 @@
+2012 Moon phases for UTC
+Lunation	New Moon	First Quarter	Full Moon	Third Quarter	Duration
+1101	 	 	Jan 1	6:14 AM	Jan 9	7:30 AM	Jan 16	9:08 AM	29d 13h 33m
+1102	Jan 23	7:39 AM	Jan 31	4:10 AM	Feb 7	9:54 PM	Feb 14	5:04 PM	29d 14h 55m
+1103	Feb 21	10:35 PM	Mar 1	1:22 AM	Mar 8	9:40 AM	Mar 15	1:25 AM	29d 16h 03m
+1104	Mar 22	2:37 PM	Mar 30	7:41 PM	Apr 6	7:19 PM	Apr 13	10:50 AM	29d 16h 41m
+1105	Apr 21	7:19 AM	Apr 29	9:58 AM	May 6	3:35 AM	May 12	9:47 PM	29d 16h 29m
+1106	May 20	11:47 PM	May 28	8:16 PM	Jun 4	11:12 AM	Jun 11	10:42 AM	29d 15h 15m
+1107	Jun 19	3:03 PM	Jun 27	3:31 AM	Jul 3	6:52 PM	Jul 11	1:48 AM	29d 13h 22m
+1108	Jul 19	4:25 AM	Jul 26	8:56 AM	Aug 2	3:28 AM	Aug 9	6:55 PM	29d 11h 30m
+1109	Aug 17	3:55 PM	Aug 24	1:54 PM	Aug 31	1:59 PM	Sep 8	1:16 PM	29d 10h 16m
+1110	Sep 16	2:11 AM	Sep 22	7:41 PM	Sep 30	3:19 AM	Oct 8	7:34 AM	29d 9h 52m
+1111	Oct 15	12:03 PM	Oct 22	3:32 AM	Oct 29	7:50 PM	Nov 7	12:36 AM	29d 10h 06m
+1112	Nov 13	10:08 PM	Nov 20	2:32 PM	Nov 28	2:46 PM	Dec 6	3:32 PM	29d 10h 33m
+1113	Dec 13	8:42 AM	Dec 20	5:19 AM	Dec 28	10:22 AM	 	 	29d 11h 02m
